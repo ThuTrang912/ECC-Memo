@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44902700292",
+    "project_id": "fir-memo-ca404",
+    "storage_bucket": "fir-memo-ca404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44902700292:android:4c4fd160ca9ea5a5176c51",
+        "android_client_info": {
+          "package_name": "com.example.firebasememo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44902700292-1kh4u1en98dld17hg2vekpv1gstnm70d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasememo",
+            "certificate_hash": "256b0a54da9a2dfe5fec644dad9923e18a135e7a"
+          }
+        },
+        {
+          "client_id": "44902700292-tmfd115d7l72ajngfbgqlighgkbl72pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmyRMizH7CWEQeqqjRNOsoJ3htM-7lm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44902700292-tmfd115d7l72ajngfbgqlighgkbl72pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
